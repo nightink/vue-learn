@@ -1,4 +1,5 @@
-const vue = require('vue-loader');
+'use strict';
+
 const webpack = require('webpack');
 
 module.exports = {
