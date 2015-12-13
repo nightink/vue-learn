@@ -6,7 +6,7 @@ module.exports = {
   entry: './lib/index.js',
   output: {
     path: './static',
-    publicPath: '/static/',
+    publicPath: 'static/',
     filename: 'build.js',
   },
   module: {
