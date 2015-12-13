@@ -18,6 +18,12 @@ npm run dev
 npm run build
 ```
 
+### learn
+
+- vue-router
+- v-link
+- v-show
+
 [1]: https://github.com/vuejs/vue-hackernews
 [2]: http://vuejs.org
 [3]: https://github.com/vuejs/vue-router
