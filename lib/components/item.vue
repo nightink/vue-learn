@@ -36,7 +36,8 @@ export default {
 }
 </script>
 
-<style>
+<!-- style scope -->
+<style scoped>
 .item {
   border-bottom: 1px #eee solid;
   padding: 14px;
